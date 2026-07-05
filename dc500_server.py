@@ -175,7 +175,7 @@ class WebHandler(BaseHTTPRequestHandler):
         <html>
         <head>
             <title>DC500 People Counter</title>
-            <meta http-equiv="refresh" content="10">
+            <meta http-equiv="refresh" content="60">
             <style>
                 body { font-family: Arial, sans-serif; margin: 30px; }
                 table { border-collapse: collapse; width: 100%; font-size: 14px; }
